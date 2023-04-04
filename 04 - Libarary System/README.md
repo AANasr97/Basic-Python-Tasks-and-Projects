@@ -1,6 +1,5 @@
 # Library Management System
 
-![image.png](attachment:image.png)
 
 Harry works in the library and is tired of maintaining paper records. He wants to digitize the library's operations and needs a program to do so. This project aims to provide a solution to Harry's problem.
 
