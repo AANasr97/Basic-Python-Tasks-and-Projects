@@ -32,3 +32,6 @@ A script that uses an API to collect data in JSON format.
 
 ## 07 - Data Collecting - Web Scraping - Books
 A script that uses web scraping to collect book data from a website.
+
+## 08 - Design and Analysis of E-Books Database
+A script that uses web scraping to collect book data from a website then build a database for it and analyze the database using MySQL.
